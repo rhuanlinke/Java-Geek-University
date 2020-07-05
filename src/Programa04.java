@@ -8,7 +8,5 @@ public class Programa04 {
 		if(numero > 5) {
 			System.out.println("Sim, o número "+ numero + " é maior que 5");
 		}
-		
 	}
-
 }
