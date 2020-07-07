@@ -1,5 +1,5 @@
 //0 compitador e o bytecode
-public class Programa2 {
+public class Programa02 {
 
 	public static void main(String[] args) {
 		int idade = 28;
