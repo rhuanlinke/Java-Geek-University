@@ -12,6 +12,11 @@ public class Programa11 {
 		Float preco3 = 44.5f;
 		Double preco4 = 44.5;
 		
+		System.out.println(preco1);
+		System.out.println(preco2);
+		System.out.println(preco3);
+		System.out.println(preco4);
+		
 	}
 
 }

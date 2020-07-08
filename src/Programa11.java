@@ -6,12 +6,21 @@ public class Programa11 {
 		//Tipos primários:
 		int num1 = 4; //Inteiro
 		short num2 = 4; //Inteiro (curto/menor)
+		byte num5 = 4;
 		
 		//Tipos não primários
 		Integer num3 = 98;
 		Short num4 = 7;
+		Byte num6 = 8;
 		
-		System.out.println(num2, num3, num4);
+		System.out.println(num1);
+		System.out.println(num2);
+		System.out.println(num3);
+		System.out.println(num4);
+		System.out.println(num5);
+		
+
+
 	}
 
 }
