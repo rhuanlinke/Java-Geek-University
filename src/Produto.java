@@ -7,7 +7,13 @@
  public class NomeDaClasse{
   } */
 
+//Atributos
+/* São as características da classe/molde/modelo de dados; 
+ * Podemos entender atributos/estados como variáveis da classe;
+ * Atributos são nomeados em letras minusculas, sem carac. espec.*/
+
 public class Produto {
-	
+	String nome;
+	float preco, desconto;
 	
 }
