@@ -8,7 +8,7 @@
 /*Sempre um construtor vazio tem a seguinte forma:
  public NomeDaClasse(){}  */
 public class Pessoa {
-	String nome, email, endereco_rua, endereco_bairro, endereco_complemento;
+	String nome, email, endereco_rua;
 	int ano_nascimento, endereco_numero, endereco_cep;
 	
 	//Metodo construtor vazio criado autom. pela JVM
